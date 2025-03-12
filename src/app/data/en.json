@@ -1,0 +1,46 @@
+{
+  "footer": {
+    "contact": "Get in Touch",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "learnMore": "Learn More",
+    "viewPortfolio": "View Portfolio",
+    "downloadResume": "Download Resume"
+  },
+  "sections": {
+    "home": {
+      "title": "Welcome to My Portfolio",
+      "description": "Explore my work and projects."
+    },
+    "about": {
+      "title": "About Me",
+      "description": "Learn more about my background and skills."
+    },
+    "projects": {
+      "title": "My Projects",
+      "description": "Check out some of my recent work."
+    },
+    "contact": {
+      "title": "Contact Me",
+      "description": "Feel free to reach out for collaborations or inquiries."
+    }
+  },
+  "modals": {
+    "confirmation": {
+      "title": "Are you sure?",
+      "message": "Please confirm your action."
+    },
+    "error": {
+      "title": "An error occurred",
+      "message": "Something went wrong. Please try again later."
+    },
+    "success": {
+      "title": "Success!",
+      "message": "Your action was completed successfully."
+    }
+  }
+}
